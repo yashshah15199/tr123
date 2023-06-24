@@ -1,0 +1,23 @@
+
+.myclass{
+    /* border:1px solid blueviolet; */
+    padding-left: 100px;
+    border-radius: 2px;
+    border-top-style: dotted;
+    float:left;
+}
+#myid{
+    background-color: red;
+    opacity: 1;
+    border:1px solid black;
+    /* background-image: url("favicon.png"); */
+}
+body{
+    /* background-image: url("favicon.png"); */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: scroll; */
+}
+p{
+    text-align-last:center ;
+    text-transform: uppercase;
+}
